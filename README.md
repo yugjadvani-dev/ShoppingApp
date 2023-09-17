@@ -1,3 +1,6 @@
+![Screenshot_2023-09-17-14-17-38-20](https://github.com/yug20/ShoppingApp/assets/110123287/497e1428-d8b4-40f1-9f6f-f0eccacf2d12)
+![Screenshot_2023-09-17-14-17-41-61](https://github.com/yug20/ShoppingApp/assets/110123287/012a34b7-3940-4da0-a63f-5dfa443e13a0)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
